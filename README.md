@@ -6,3 +6,4 @@ Módulo de digitalización
 **negrita**
 *cursiva*
 ~~tachado~~
+---
